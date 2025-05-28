@@ -1,0 +1,11 @@
+student_id,advisor_id,program_chair_id
+1,adv_1,chair_1
+2,adv_1,chair_1
+3,adv_2,chair_1
+4,adv_2,chair_1
+5,adv_3,chair_1
+6,adv_3,chair_1
+7,adv_1,chair_1
+8,adv_2,chair_1
+9,adv_3,chair_1
+10,adv_1,chair_1
